@@ -1,3 +1,15 @@
+/*
+ * Project: Jacqueline Taylor & Friends
+ *
+ * Created on Sun May 16 2021
+ *
+ * Filename: index.js
+ *
+ * Copyright (c) 2021 Bujisoft
+ */
+
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
